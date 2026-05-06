@@ -10,7 +10,7 @@ Hi! I put this together to share a process we've validated for turning existing 
 
 | File | Purpose |
 |---|---|
-| `00_README_Start-Here.md` | This file — how to use the pack |
+| `00_README.md` | This file — how to use the pack |
 | `01_Brand-Standards-Template.md` | Fill in your colors, fonts, logo rules. **Do this first.** |
 | `02_Carousel-SOP-Template.md` | The end-to-end process — generic version with `[BRACKETED]` placeholders |
 | `03_Source-Deck-Preflight-Template.md` | Worksheet to extract facts from a source deck before drafting |
